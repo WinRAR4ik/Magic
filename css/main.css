@@ -1,0 +1,11 @@
+.main {
+  max-width: 1200px;
+}
+.main .card {
+  width: 600px;
+  margin: 30px auto 0 400px;
+  -webkit-box-shadow: 0 3px 6px rgba(8, 66, 255, 0.3);
+          box-shadow: 0 3px 6px rgba(8, 66, 255, 0.3);
+  border-radius: 5px;
+  padding: 20px 20px;
+}
