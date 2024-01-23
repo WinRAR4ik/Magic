@@ -2,13 +2,23 @@
     max-width: 1200px;
     
     .card{
-      width: 600px;
+      width: 650px;
       margin: 30px auto 0 400px;
       box-shadow: 0 3px 6px rgba(8, 66, 255, 0.3);
       border-radius: 5px;
       padding:  20px 20px;
       .text{
-        
+        font-size: 16px;
+      }
+      .sub-title{
+        color: blue;
+        font-size: 28px;
+        padding-bottom: 5px;
+      }
+      .sub-tem{
+        color: green;
+        font-size: 18px;
+        padding-bottom: 5px;
       }
     }
 }
