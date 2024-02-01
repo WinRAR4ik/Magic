@@ -1,12 +1,27 @@
 .header{
+
     .wrap{
         text-align: center;
-    }
+
     .Title{
         font-size: 50px; 
         color: blue;
+        padding-bottom: 15px;
     }
     .Sub-Title{
-        padding-top: 5px;
+        font-style: 50px;
+       
     }
+}
+}
+
+.btn-scroll{
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    padding: 15px 15px;
+    cursor: pointer;
+}
+*{
+    scroll-behavior: smooth;
 }
